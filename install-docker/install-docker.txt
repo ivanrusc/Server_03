@@ -30,3 +30,5 @@ DEBIAN:
 ivan@BMAX:~$ su -
 Contrasenya: *************
 root@BMAX:~# usermod -aG docker $USER
+
+###
